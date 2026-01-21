@@ -1,0 +1,7 @@
+{
+  "name": "TruthLayer IA - Assistant de Rencontres",
+  "description": "Un assistant IA intelligent, cynique et éthique pour vous aider à décoder les profils et conversations de rencontres. Détectez les red flags, générez des réponses percutantes et analysez les bios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
